@@ -1,12 +1,12 @@
 - 💬 Ask me about *HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript*
 
 - 📫 How to reach me *yadav06bihari@gmail.com*
-- 📄 <a href="https://drive.google.com/file/d/1d9v40G0kmg4YdU5Tk1duJJe1QE3ViFll/view?usp=sharing">Resume</a>    
-- 📄 <a href="https://sumansauravmay.github.io/">Portfolio</a> 
-- 📄 <a href="https://www.linkedin.com/in/suman-saurav-06896b231/">LinkedIn</a> 
+- 📄 <a href="[https://drive.google.com/file/d/1d9v40G0kmg4YdU5Tk1duJJe1QE3ViFll/view?usp=sharing](https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing)">Resume</a>    
+- 📄 <a href="https://bl1997.github.io/">Portfolio</a> 
+- 📄 <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/">LinkedIn</a> 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suman-saurav-06896b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suman-saurav-06896b231/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/Bl1997" height="30" width="40" /></a>
 </p> -->
 
 <h2 align="left">Languages and Tools</h2>
@@ -15,16 +15,16 @@
 
 # 📊 GitHub Stats
 <!-- <h2 align="center">📊 GitHub Stats</h2> -->
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansauravmay&show_icons=true&locale=en&layout=compact" alt="sumansaurav" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bl1997&show_icons=true&locale=en&layout=compact" alt="Bihari" /></p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumansauravmay&show_icons=true&locale=en" alt="sumansauravmay" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bl1997&show_icons=true&locale=en" alt="bihari" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansauravmay" alt="sumansauravmay" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bl1997" alt="bihari" /></p>
 
 ## 🏆 GitHub Trophies
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumansauravmay" alt="Trophy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bl1997" alt="Trophy" /></a> </p>
 
 
 ### ✍️ Random Dev Quote
