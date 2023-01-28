@@ -2,11 +2,16 @@
   <h1>Hii,</h1> <h1><b>I am Bihari Yadav </b></h1>
   <h2>Welcome To Github</h2>
 
-  <div>RAm</div>  <div>Shay</div>
+  <h1>About Me: </h>
+  
+  - 📫 How to reach me *yadav06bihari@gmail.com*
+- 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
+- 📄 <a href="https://bl1997.github.io/">Portfolio</a> 
+- 📄 <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/">LinkedIn</a> 
 
 
 <h1>Tech Stack:</h1>
-<br/>
+
 <h3 style={{textalign="center"}}>Frontend</h3>
 <div>
 <img width="100px" height="30px" src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"  alt="html"/>
@@ -46,10 +51,7 @@
 </div>
 
 
-- 📫 How to reach me *yadav06bihari@gmail.com*
-- 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
-- 📄 <a href="https://bl1997.github.io/">Portfolio</a> 
-- 📄 <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/">LinkedIn</a> 
+
 <!-- <h3 align="left">Connect with me:</h3>
 
 <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif"/>
