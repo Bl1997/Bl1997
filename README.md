@@ -1,5 +1,5 @@
 
-  <h1>Hii I am Bihari Yadav </h1>
+  <h1>Hii,</h1> <h1><b>I am Bihari Yadav </b></h1>
   <h2>Welcome To Github</h2>
 
 - 💬 Ask me about *HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript*
