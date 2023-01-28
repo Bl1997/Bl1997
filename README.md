@@ -1,9 +1,9 @@
 
   <h1>Hii,</h1> <h1><b>I am Bihari Yadav </b></h1>
   <h2>Welcome To Github</h2>
-<div style={display="flex"} >
+
   <div>RAm</div>  <div>Shay</div>
-</div>
+
 
 <h1>Tech Stack:</h1>
 <br/>
