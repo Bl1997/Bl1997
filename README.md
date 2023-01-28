@@ -2,7 +2,7 @@
   <h1>Hii,</h1> <h1><b>I am Bihari Yadav </b></h1>
   <h2>Welcome To Github</h2>
 
-  <h1>About Me: </h>
+  <h1>About Me: </h1>
   
   - 📫 How to reach me *yadav06bihari@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
