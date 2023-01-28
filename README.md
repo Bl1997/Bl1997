@@ -3,6 +3,7 @@
   <h2>Welcome To Github</h2>
 
   <h1>About Me: </h1>
+  💬 Ask me about Javascript, Java, HTML, CSS, DSA
   
   - 📫 How to reach me *yadav06bihari@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
