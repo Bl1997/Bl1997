@@ -3,14 +3,15 @@
   <h2>Welcome To Github</h2>
 
   <h1>About Me: </h1>
-  💬 Ask me about Javascript, Java, HTML, CSS, DSA
+ <div> 💬 Ask me about Javascript, Java, HTML, CSS, DSA</div>
+ 
   
   - 📫 How to reach me *yadav06bihari@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
 - 📄 <a href="https://bl1997.github.io/">Portfolio</a> 
 - 📄 <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/">LinkedIn</a> 
 
-
+<br/>
 <h1>Tech Stack:</h1>
 
 <h3 style={{textalign="center"}}>Frontend</h3>
