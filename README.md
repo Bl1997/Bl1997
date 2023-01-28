@@ -2,7 +2,7 @@
   <h1>Hii,</h1> <h1><b>I am Bihari Yadav </b></h1>
   <h2>Welcome To Github</h2>
 
-Thing I code with-
+<h1>Tech Stack:</h1>
 <br/>
 <h3 style={{textalign="center"}}>Frontend</h3>
 <div>
