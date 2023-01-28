@@ -1,3 +1,7 @@
+
+  <h1>Hii I am Bihari Yadav </h1>
+  <h2>Welcome To Github</h2>
+
 - 💬 Ask me about *HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript*
 
 - 📫 How to reach me *yadav06bihari@gmail.com*
