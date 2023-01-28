@@ -2,7 +2,7 @@
   <h1>Hii,</h1> <h1><b>I am Bihari Yadav </b></h1>
   <h2>Welcome To Github</h2>
 
-<img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif"/>
+<img width="100%" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif"/>
   <h1>About Me: </h1>
  <div> 💬 Ask me about Javascript, Java, HTML, CSS, DSA</div>
  <div>💻 All of my projects are available at My <a href="https://github.com/Bl1997?tab=repositories">Github Repositories</a></div>
