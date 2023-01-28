@@ -1,5 +1,5 @@
 
- <div><h1>Hii,</h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/></div> <h1><b>I am Bihari Yadav </b></h1>
+ <div><h1>Hii,</h1><img width="100px" height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/></div> <h1><b>I am Bihari Yadav </b></h1>
   <h2>Welcome To Github</h2>
 
 <img width="100%" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif"/>
