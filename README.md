@@ -11,7 +11,8 @@
   - 📫 How to reach me *yadav06bihari@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
 - 📄 <a href="https://bl1997.github.io/">Portfolio</a> <br/>
-- 📄 <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/"><img borderRadius="10px" src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkdIn"/></a> 
+- 📄 <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/">LinkdIn</a> 
+- 📄 <a href="https://twitter.com/yadav06bihari">Twitter</a> 
 
 <br/>
 <h1>Tech Stack:</h1>
