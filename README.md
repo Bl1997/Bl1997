@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif"/>
   <h1>About Me: </h1>
- <div> 💬 Ask me about Javascript,  HTML, CSS, DSA</div>
+ <div> 💬 Ask me about JavaScript,  HTML, CSS, DSA</div>
  <div>💻 All of my projects are available at My <a href="https://github.com/Bl1997?tab=repositories">Github Repositories</a></div>
  
   
