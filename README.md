@@ -85,9 +85,10 @@
 # 📊 GitHub Stats
 <!-- <h2 align="center">📊 GitHub Stats</h2> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bl1997&show_icons=true&locale=en&layout=compact" alt="Bihari" /></p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bl1997&layout=compact" alt="Bihari" /></p>
 
-
+<!-- show_icons=true&locale=en& -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bl1997&theme=react&show_icons=true&locale=en" alt="bihari" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bl1997" alt="bihari" /></p>
