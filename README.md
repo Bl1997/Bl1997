@@ -3,6 +3,9 @@
   <h2>Welcome To Github Profile</h2>
   
   <h3>Profile Visitor Count-  <img src="https://profile-counter.glitch.me/Bl1197/count.svg"/></h3>
+  
+  
+  <h3>Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 
 <img width="100%" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif"/>
   <h1>About Me: </h1>
