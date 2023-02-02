@@ -13,7 +13,7 @@
   - 📫 How to reach me *yadav06bihari@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
 - 📄 <a href="https://bl1997.github.io/"><img src="https://camo.githubusercontent.com/a4f6cac3695dcca1a03210fbde4c9ccedb0a2413b1a80d98456d912d325aa85c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d23464637313339"/></a> <br/>
-- 📄 <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/">LinkdIn</a> 
+- 📄 <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/">LinkdIn <img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/></a> 
 - 📄 <a href="https://twitter.com/yadav06bihari">Twitter</a> 
 
 <br/>
