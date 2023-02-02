@@ -85,7 +85,7 @@
 # 📊 GitHub Stats
 <!-- <h2 align="center">📊 GitHub Stats</h2> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bl1997show_icons=true&locale=en&layout=compact" alt="Bihari" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bl1997&show_icons=true&locale=en&layout=compact" alt="Bihari" /></p>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bl1997&theme=react&show_icons=true&locale=en" alt="bihari" /></p>
