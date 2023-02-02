@@ -91,7 +91,7 @@
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bl1997&theme=react&show_icons=true&locale=en" alt="bihari" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bl1997" alt="bihari" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bl1997&theme=react" alt="bihari" /></p>
 
 ## 🏆 GitHub Trophies
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
