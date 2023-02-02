@@ -86,10 +86,11 @@
 <!-- <h2 align="center">📊 GitHub Stats</h2> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<div display="flex">
 <p align="center" ><img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl1997&theme=react&layout=compact" alt="Bihari" /></p>
 
 <p align="center">&nbsp;<img width="100%" height="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=bl1997&theme=react&show_icons=true&locale=en" alt="bihari" /></p>
+ </div>
 
 <p align="center"><img width="100%" height="350px" border="0px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bl1997&theme=react" alt="bihari" /></p>
 
