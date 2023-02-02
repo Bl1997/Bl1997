@@ -76,6 +76,6 @@
 
 ## 🏆 GitHub Trophies
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bl1997" alt="Trophy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivam00002" alt="Trophy" /></a> </p>
 [![Bihari Yadav's github activity graph]<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bl1997&theme=dracula"/><img src="https://github.com/bl1997/github-readme-activity-graph"/>
 
