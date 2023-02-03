@@ -2,6 +2,8 @@
  <div><h1>Hii,<img width="60px" height="50px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/> I am Bihari Yadav <img width="60px" height="60px" src=""/></h1> </div>
   <h2>Welcome To Github Profile</h2>
   
+  <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text"/>)](https://git.io/typing-svg)
+  
  
   
   
