@@ -2,7 +2,7 @@
  <div><h1>Hii,<img width="60px" height="50px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/> I am Bihari Yadav <img width="60px" height="60px" src=""/></h1> </div>
   <h2>Welcome To Github Profile</h2>
   
-  <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hii I am Bihari Yadav;Welcome To My Github Profile"/></p>
+  <p align="center"><img height="250px" src="https://readme-typing-svg.demolab.com/?lines=Hii I am Bihari Yadav;Welcome To My Github Profile"/></p>
   
  
   
