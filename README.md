@@ -10,6 +10,7 @@
 
  <h3 align="center"><-Profile Visitor Count-> </h3> <p align="center"><img  src="https://profile-counter.glitch.me/Bl1197/count.svg"/></p>
  <p align="center"><img width="360px" height="100px" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/></p>
+  <h3>Trophies-: </h3>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bl1997&theme=algolia" alt="Trophy" /></a> </p>
 
   <h1>About Me: </h1>
