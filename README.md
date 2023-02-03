@@ -8,6 +8,7 @@
   <h3>Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 
  <h3 align="center"><-Profile Visitor Count-> </h3> <p align="center"><img  src="https://profile-counter.glitch.me/Bl1197/count.svg"/></p>
+ <p align="center"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/></p>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bl1997&theme=algolia" alt="Trophy" /></a> </p>
 
   <h1>About Me: </h1>
