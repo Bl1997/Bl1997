@@ -104,3 +104,4 @@
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bl1997&theme=react-dark"/>
+ <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg"/>
