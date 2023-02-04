@@ -13,7 +13,6 @@
  <div> 💬 Ask me about JavaScript,  HTML, CSS, React, DSA</div>
  <div>💻 All of my projects are available at My <a href="https://github.com/Bl1997?tab=repositories">Github Repositories</a></div>
  
-  
   - 📫 How to reach me *yadav06bihari@gmail.com*
 - 📄 <a href="https://drive.google.com/file/d/17oA2E4tixZpvDYBajSQE7jMO4k5xEnlC/view?usp=sharing">Resume</a> 
 - 📄 <a href="https://bl1997.github.io/">Portfolio </a> <br/>
