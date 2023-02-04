@@ -21,7 +21,7 @@
 - <div>📄All of my projects are available at<a href="https://github.com/Bl1997?tab=repositories">Github Repositories</a> </div>
 
 <br/>
-<h1>Tech Stack:</h1>
+<h1>Tech Stack-:</h1>
 
 <h3 style={{textalign="center"}}>Frontend</h3>
 <div>
