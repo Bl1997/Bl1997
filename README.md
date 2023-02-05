@@ -10,7 +10,7 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bl1997&theme=algolia" alt="Trophy" /></a> </p>
 
   <h1>About Me: </h1>
- <div> 💬 Ask me about JavaScript,  HTML, CSS, React, DSA</div>
+ <div> 💬 Ask me about JavaScript,  HTML, CSS, React, DSA </div>
  <div>💻 All of my projects are available at My <a href="https://github.com/Bl1997?tab=repositories">Github Repositories</a></div>
  
   - 📫 How to reach me *yadav06bihari@gmail.com*
@@ -18,7 +18,7 @@
 - 📄 <a href="https://bl1997.github.io/">Portfolio </a> <br/>
 - 📄  <a href="https://www.linkedin.com/in/bihari-lal-2a97a1236/">LinkdIn </a> 
 - 📄 <a href="https://twitter.com/yadav06bihari">Twitter</a> 
-- <div>📄All of my projects are available at<a href="https://github.com/Bl1997?tab=repositories">Github Repositories</a> </div>
+
 
 <br/>
 <h1>Tech Stack-:</h1>
