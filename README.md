@@ -7,7 +7,7 @@
  <h3 align="center"><-Profile Visitor Count-> </h3> <p align="center"><img  src="https://profile-counter.glitch.me/Bl1197/count.svg"/></p>
  <p align="center"><img width="360px" height="100px" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/></p>
   <h2>## 🏆 GitHub Trophies 🏆</h2>
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin="10px" src="https://github-profile-trophy.vercel.app/?username=Bl1997&theme=algolia" alt="Trophy" /></a> </p>
+ <p align="center"> <img margin="10px" src="https://github-profile-trophy.vercel.app/?username=Bl1997&theme=algolia" alt="Trophy" /></p>
 
   <h1>About Me: </h1>
  <div> 💬 Ask me about JavaScript,  HTML, CSS, React, DSA </div>
