@@ -22,7 +22,7 @@
 
 
 <br/>
-<h1>Tech Stack-:</h1>
+<h1> Tech Stack-:</h1>
 
 <h3 style={{textalign="center"}}>Frontend</h3>
 <div>
