@@ -3,7 +3,7 @@
 
 <img width="90%"  src="https://camo.githubusercontent.com/8ba1e66bcfa048214cf17f235c341742347c9c248831d044aa888acbeec89502/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966"/>
   
-  <h3>Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
+   <h3>Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 
  <h3 align="center"><-Profile Visitor Count- > </h3> <p align="center"> <img  src="https://profile-counter.glitch.me/Bl1197/count.svg"/></p>
  <p align="center"><img width="360px" height="100px" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/></p>
