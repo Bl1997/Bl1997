@@ -7,7 +7,7 @@
 
  <h3 align="center"><-Profile Visitor Count- > </h3> <p align="center"> <img  src="https://profile-counter.glitch.me/Bl1197/count.svg"/></p>
  <p align="center"><img width="360px" height="100px" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/></p>
-  <h2>## 🏆 GitHub Trophies 🏆</h2>
+    <h2>## 🏆 GitHub Trophies 🏆</h2>
  <p align="center"> <img margin="10px" src="https://github-profile-trophy.vercel.app/?username=Bl1997&theme=algolia" alt="Trophy" /></p>
 
   <h1>About Me: </h1>
@@ -78,7 +78,7 @@
 
 <div
 
-<!-- <h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me: </h3>
 
 
 <h2 align="left">Languages & Tools</h2>
